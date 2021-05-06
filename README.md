@@ -8,3 +8,7 @@ Apparently, NTBeta no longer wanted to work on it.
 # Will everything be the same?
 
 I can try.
+
+# How to play?
+
+Download the files, and run them. If you need help, contact me on Discord: carneliantius#0990, or [Google](https://google.com/) it.
