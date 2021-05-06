@@ -1,2 +1,7 @@
 print("Hey! This is a remake of the `smol` deleted game Untitled_GaMe by NTBeta. If you're reading this, uh you're probably a friend of mine.")
 print("Anyways, enjoy the game.")
+print("Welcome to the world of Untitled_GaMe, first I need to know your name.")
+print("What is it?")
+print("Your name is:")
+n = input()
+print("So your name is" + n + "? Cool.")
