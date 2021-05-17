@@ -7,7 +7,7 @@ Apparently, NTBeta no longer wanted to work on it, but, I made a batch port, so 
 
 # Is everything the same?
 
-No, it is a bit different from the original (ik what the original looks like, also ill make the batch port of the orginal private)
+No, it is a bit different from the original (ik what the original looks like, because the batch port of the og is still up)
 
 # How to play?
 
