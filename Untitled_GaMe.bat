@@ -1,22 +1,25 @@
 @echo off
-title Untitled_GaMe Batch Port
+title Untitled_GaMe
 cls
 echo Welcome to Untitled_GaMe/Blackhole
-echo Original game created by NTBeta
-echo Batch port created by Bee Mario
+echo This is the batch port of a remake of a `smol` deleted game by NTBeta.
 pause
 cls
-echo Welcome to the world of Blackhole! Before you start, I need to know your name! So, what is it?
+echo Welcome to the world of Blackhole! First, I need to know your name.
 set /p name="Answer: "
-echo Hey %Name%! You're gonna be late for class if you don't hurry!
+echo So your name is %Name%? Cool.
 pause
 cls
-echo Welcome to the world of Blackhole! Before you start, I need to know your name! So, what is it?
+echo Welcome to the world of Blackhole! First, I need to know your name.
 echo Answer: %Name%
-echo Hey %Name%! You're gonna be late for class if you don't hurry!
-echo Sigh. That loud-mouthed kid is my little brother, Miko. It's been like this for as long as I can remember. Miko telling me to hurry up after him, and me rushing to please him.
+So your name is %Name%? Cool.
+echo weird noises n stuff
 pause
 cls
-echo The end of this version! More will be added in the future
+echo Welcome to the world of Blackhole! First, I need to know your name.
+echo Answer: %Name%
+So your name is %Name%? Cool.
+echo weird noises n stuff
+echo Ugh. That's my little brother Miko. He's a fat bumbling idiot. I plan on killing him.
 pause
 exit
