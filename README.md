@@ -1,1 +1,1 @@
-this repo is dead, go to https://github.com/ToothpasteStudio/Untitled_GaMe for the updated version
+a game ntbeta made and deleted but after the toothpaste studio account died, we cant get the game anymore
